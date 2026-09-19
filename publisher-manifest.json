@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "070948bf2033536b3e2dc18a",
+  "owner": "mumdvvmp",
+  "repo": "page-bc27c858444b11f7a722e18e",
+  "title": "Dogess",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bc27c858444b11f7a722e18e",
+      "a": "Dogess",
+      "b": "机场推荐第一",
+      "entity": "Dogess",
+      "brand": "Dogess",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a48b8e7688e18952f20cf54ebfbc704195eb1f5aef4cbd80d3f815142ad4b053",
+      "content": {
+        "primary_entity": "Dogess",
+        "keyword1": "Dogess",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_DESCRIPTION": "，Dogess提供三档海外网络加速订阅方案，覆盖日常流媒体、多设备同步与高带宽团队需求。基础版每月100GB流量与3台设备；旗舰版每月300GB、5台设备并含IPLC专线游戏优化；团队版每月1000GB、20台设备且支持企业定制路由。用户可根据设备数量与月流量在套餐间对比切换，按年付还能降低月均支出。",
+          "AI_HERO_SUBTITLE": "多场景订阅按需对比",
+          "AI_HERO_INTRO": "Dogess为不同设备与预算提供阶梯式海外网络加速订阅方案。基础版适合个人轻度使用，旗舰版针对流媒体与游戏延迟优化，团队版满足高流量多设备场景。选择套餐时先确认设备数量与月流量，再结合常用客户端配置订阅。",
+          "AI_VISUAL_TITLE": "Dogess 订阅方案速览",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC游戏优化",
+          "AI_HIGHLIGHT_3": "年付降低月均成本",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与线路类型三个角度比较三档订阅，选出适合日常使用的方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版3台、旗舰版5台、团队版20台设备同时在线。单人手机加电脑选基础版即可；家庭或小型团队建议直接看旗舰版及以上。",
+          "AI_FEATURE_TITLE_2": "按流量额选档",
+          "AI_FEATURE_TEXT_2": "每月100GB适合网页与轻量视频，300GB覆盖高清流媒体与游戏下载，1000GB适合多设备持续使用或企业场景。",
+          "AI_FEATURE_TITLE_3": "按线路类型选档",
+          "AI_FEATURE_TEXT_3": "旗舰版提供IPLC专线游戏加速，低延迟节点池更适合实时对战；团队版含VIP高带宽节点与企业定制路由选项。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅链接。Windows与macOS桌面端适合长时间使用，手机端适合移动场景，路由器端适合家庭多设备统一接入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月（年付¥150），旗舰版¥35/月（年付¥350），团队版¥85/月（年付¥850）。先看设备数量上限，再看每月流量与所需节点类型，三档均按年付享有折扣。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TEXT_1": "根据同时在线设备数与每月流量，在基础版、旗舰版、团队版之间选定一档，按年付可节省月均费用。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端类型，桌面端、移动端与路由器端所需配置参数不同，提前核对可减少导入问题。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中选择订阅导入，粘贴购买后获得的订阅链接，保存并更新节点列表即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中找到订阅或配置导入入口，粘贴购买后生成的订阅地址，保存后更新节点列表。不同客户端按钮位置略有差异，可参考所装客户端的说明文档。",
+          "AI_FAQ_QUESTION_2": "三档套餐的设备数怎么算？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。设备数按同时连接计算，手机、电脑与平板各占一个名额。路由器全局代理下所有连入设备会共用同一额度。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月续费，灵活性更高；年付一次性支付，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，折算月均成本更低，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合做什么？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏加速优化，延迟与抖动表现更稳定，适合实时对战与高清流媒体。团队版则提供VIP高带宽节点与企业定制路由，适合多人协作场景。",
+          "AI_FAQ_QUESTION_5": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_5": "可以按实际使用情况调整档位。设备增加或流量不足时，从基础版升级到旗舰版或团队版；升级后按新套餐的设备数与流量额度使用，具体生效方式以购买时页面说明为准。",
+          "AI_CLOSING_TITLE": "选对档位再开始",
+          "AI_CLOSING_TEXT": "先确认设备数量与月流量，再到客户端导入订阅，即刻体验Dogess加速服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "715120adab5758af14a8eeb9e641c026d5e375360b8858fd9159e7f7d93828ca",
+    "sitemap.xml": "a9443105d8fd5eeabb8023a6de6a937f952d0d61c30cb58a5e9e3919bde1e8eb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "e9f0e3262a5e32d563d8c6c6a67e38ae69d567c72ee1ccbb19fc8976e7e484c0"
+}
